@@ -43,13 +43,13 @@ Before using the **Advanced Chatbot**, ensure you have the following prerequisit
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Pragadeesh-KMS/advanced-chatbot.git
+   git clone https://github.com/Pragadeesh-KMS/RoleGPT.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd advanced-chatbot
+   cd RoleGPT
    ```
 
 ### Configuration
